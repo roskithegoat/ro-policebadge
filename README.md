@@ -12,7 +12,9 @@ Displays Callsign, Rank & Name Of The Officer!
 `["specialbadge"]                 = {["name"] = "specialbadge",                  ["label"] = "Police Badge",             ["weight"] = 1000,      ["type"] = "item",      ["image"] = "specialbadge.png",         ["unique"] = false,     ["useable"] = true,     ["shouldClose"] = true,    ["combinable"] = nil,   ["description"] = "Special Badge of Law Enforcements"},`
 - Drag & Drop The ro-policebadge To Your Resources Folder!
 - Boom!
+- Add this image on qb-inventory > html > images
 
+![specialbadge](https://cdn.discordapp.com/attachments/971397792662704138/1074430260763967590/specialbadge.png)
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://linktr.ee/roski123)
