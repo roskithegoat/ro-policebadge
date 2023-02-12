@@ -1,2 +1,3 @@
-# -QB-Police-Badge
-[ QB]Police Badge
+# QBCore Police-Badge
+[QB]Police Badge
+
