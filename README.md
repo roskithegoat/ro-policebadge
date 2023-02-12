@@ -1,11 +1,12 @@
 
 # [QB] Police Badge
 
-A Standalone Police Badge Script!
+A QB-Core Police Badge Script!
+Displays Callsign, Rank & Name Of The Officer!
 
-## Image
-
-## Installations
+## Screenshot
+![My Remote Image](https://cdn.discordapp.com/attachments/992322942933418024/1074427349610811392/image.png)
+## How To Install
 
 - Add This To Your QB Core > Shared > Items.lua	
 `["specialbadge"]                 = {["name"] = "specialbadge",                  ["label"] = "Police Badge",             ["weight"] = 1000,      ["type"] = "item",      ["image"] = "specialbadge.png",         ["unique"] = false,     ["useable"] = true,     ["shouldClose"] = true,    ["combinable"] = nil,   ["description"] = "Special Badge of Law Enforcements"},`
